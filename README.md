@@ -6,12 +6,12 @@ A beautifully designed classic Snake Game built using Python and Pygame, featuri
 
 ## Features
 
-- 🍎 Eat apples to grow the snake
-- 🧠 Intelligent collision detection with self and walls
-- 🔁 Restart the game with `Enter`, or quit with `Escape`
-- 🔊 Sound effects on eating and crashing
-- 🌄 Custom game background and sprites
-- 🧱 Object-oriented design using clean class structure
+- Eat apples to grow the snake
+- Intelligent collision detection with self and walls
+- Restart the game with `Enter`, or quit with `Escape`
+- Sound effects on eating and crashing
+- Custom game background and sprites
+- Object-oriented design using clean class structure
 
 ---
 ##  Controls
