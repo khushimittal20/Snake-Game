@@ -1,8 +1,6 @@
-# 🐍 Snake Game – by Khushi Mittal
+# 🐍 Snake Game 
 
 A beautifully designed classic Snake Game built using Python and Pygame, featuring smooth controls, custom graphics, sound effects, and real-time scoring.
-
-![Snake Game Screenshot](#) <!-- Optional: add a screenshot or GIF here -->
 
 ---
 
