@@ -34,15 +34,19 @@ A beautifully designed classic Snake Game built using Python and Pygame, featuri
    ```bash
    python main.py
 
-## 🖥️ How to Play the Windows `.exe`
+## 🖥️ Running the Windows `.exe` (No Python Needed)
 
-No Python? No problem!
+The compiled `.exe` is not included in the GitHub repo because it's in the ignored `output/` folder.
 
-1. Go to the `output/` folder.
-2. Double-click `snake_game.exe`.
-3. Make sure `resources/` is in the same directory (for images/sounds to load).
+➡️ You can **download the executable and resources** from Google Drive here:  
+[📁 Download snake_game.exe & resources]([https://drive.google.com/drive/folders/1wfDEyDhaQfLKDvDQVtW4ad5sk6G3bfbQ?usp=drive_link](https://drive.google.com/drive/folders/1wfDEyDhaQfLKDvDQVtW4ad5sk6G3bfbQ?usp=drive_link))
 
-https://drive.google.com/drive/folders/1wfDEyDhaQfLKDvDQVtW4ad5sk6G3bfbQ?usp=drive_link
+### Instructions:
+1. Download `snake_game.exe` and the `resources/` folder from the link above
+2. Keep them in the **same folder**
+3. Double-click `snake_game.exe` to play — no need to install Python!
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the game, add features, or fix bugs, feel free to fork the repo and submit a pull request.
