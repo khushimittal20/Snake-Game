@@ -42,8 +42,7 @@ No Python? No problem!
 2. Double-click `snake_game.exe`.
 3. Make sure `resources/` is in the same directory (for images/sounds to load).
 
-[Download from Google Drive](#) _(https://drive.google.com/drive/folders/1wfDEyDhaQfLKDvDQVtW4ad5sk6G3bfbQ?usp=drive_link)_.
-
+https://drive.google.com/drive/folders/1wfDEyDhaQfLKDvDQVtW4ad5sk6G3bfbQ?usp=drive_link
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the game, add features, or fix bugs, feel free to fork the repo and submit a pull request.
