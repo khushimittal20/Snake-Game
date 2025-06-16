@@ -57,7 +57,7 @@ Contributions are welcome! If you'd like to improve the game, add features, or f
 2. Fork the repository
 3. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/khushimittal20/Snake-Game.git
 4. Create new branch
    ```bash
    git checkout -b my-feature-branch
