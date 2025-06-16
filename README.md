@@ -12,6 +12,8 @@ A beautifully designed classic Snake Game built using Python and Pygame, featuri
 - Sound effects on eating and crashing
 - Custom game background and sprites
 - Object-oriented design using clean class structure
+- [Watch full gameplay video with sound](https://drive.google.com/file/d/1_g0ti3SlsnvaXrB0Mdn3qxQiNCUuvTaW/view?usp=sharing)
+
 
 ---
 ##  Controls
@@ -39,7 +41,7 @@ A beautifully designed classic Snake Game built using Python and Pygame, featuri
 The compiled `.exe` is not included in the GitHub repo because it's in the ignored `output/` folder.
 
 ➡️ You can **download the executable and resources** from Google Drive here:  
-[📁 Download snake_game.exe & resources](https://drive.google.com/drive/folders/1wfDEyDhaQfLKDvDQVtW4ad5sk6G3bfbQ?usp=drive_link).
+[📁 Download snake_game.exe & resources](https://drive.google.com/drive/folders/1wfDEyDhaQfLKDvDQVtW4ad5sk6G3bfbQ?usp=sharing).
 ### Instructions:
 1. Download `snake_game.exe` and the `resources/` folder from the link above
 2. Keep them in the **same folder**
